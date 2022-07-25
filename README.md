@@ -5,6 +5,17 @@ This is a working release. Any issues please contact: nicola.dinsdale@cs.ox.ac.u
 
 ![GitHub Logo](graphical_abs.png)
 
+Files
+-----------------
+- trainprune_main --> runs training procedure
+  required arugments: 
+    -m = pruning mode
+    -r = number of recovery epochs
+    -i = starting epoch
+    -no = number of iterations to run
+  
+ 
+
 
 Software Versions 
 -----------------
