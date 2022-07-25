@@ -33,7 +33,8 @@ PyTorch 1.0.1.post2
 
 If you use code from this repository please cite:
 
-```@article{STAMP,
+```
+@article{STAMP,
 title = {STAMP: Simultaneous Training and Model Pruning for Low Data Regimes in Medical Image Segmentation},
 journal = {BioArxiv},
 year = {2021},
