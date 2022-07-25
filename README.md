@@ -9,9 +9,13 @@ Files
 -----------------
 - trainprune_main --> runs training procedure
   required arugments: 
+  
     -m = pruning mode
+    
     -r = number of recovery epochs
+    
     -i = starting epoch
+    
     -no = number of iterations to run
   
  
