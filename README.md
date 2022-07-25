@@ -17,10 +17,14 @@ Files
     -i = starting epoch
     
     -no = number of iterations to run
+   
+- pruning_functions.py --> functions controlling training
+
+- pruning tools --> completes the filter pruning for unet arch
+
+- model architecture --> unet arch adapted for targeted dropout
   
  
-
-
 Software Versions 
 -----------------
 Python 3.5.2
