@@ -3,7 +3,7 @@
 
 This is a working release. Any issues please contact: nicola.dinsdale@cs.ox.ac.uk. Further code will be added in time. 
 
-![GitHub Logo](graph_abs.png)
+![GitHub Logo](graphical_abs.png)
 
 
 Software Versions 
