@@ -30,3 +30,14 @@ Software Versions
 Python 3.5.2
 
 PyTorch 1.0.1.post2
+
+If you use code from this repository please cite:
+
+```@article{STAMP,
+title = {STAMP: Simultaneous Training and Model Pruning for Low Data Regimes in Medical Image Segmentation},
+journal = {BioArxiv},
+year = {2021},
+doi = {https://www.biorxiv.org/content/10.1101/2021.11.26.470124v2},
+author = {Nicola K. Dinsdale and Mark Jenkinson and Ana I.L. Namburete}
+}
+'''
