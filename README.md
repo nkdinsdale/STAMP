@@ -42,5 +42,3 @@ year = {2022},
 doi = {https://doi.org/10.1016/j.media.2022.102583},
 author = {Nicola K. Dinsdale and Mark Jenkinson and Ana I.L. Namburete}
 }
-
-
