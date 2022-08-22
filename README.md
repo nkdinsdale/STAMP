@@ -34,11 +34,13 @@ PyTorch 1.0.1.post2
 If you use code from this repository please cite:
 
 ```
-@article{STAMP,
-title = {STAMP: Simultaneous Training and Model Pruning for Low Data Regimes in Medical Image Segmentation},
-journal = {BioArxiv},
-year = {2021},
-doi = {https://www.biorxiv.org/content/10.1101/2021.11.26.470124v2},
+@article{DINSDALE2022102583,
+title = {STAMP: Simultaneous Training and Model Pruning for low data regimes in medical image segmentation},
+journal = {Medical Image Analysis},
+pages = {102583},
+year = {2022},
+doi = {https://doi.org/10.1016/j.media.2022.102583},
 author = {Nicola K. Dinsdale and Mark Jenkinson and Ana I.L. Namburete}
 }
+
 
